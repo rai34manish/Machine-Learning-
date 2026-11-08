@@ -1,4 +1,4 @@
-# Heart Disease Risk Prediction App
+# Heart Disease Risk Prediction App [🚀 Open the live app](https://c6tnezrz4neqvfyxxtejtg.streamlit.app/)
 
 A Streamlit application that uses a saved K-Nearest Neighbors (KNN) model to demonstrate heart disease risk prediction from user-entered health measurements. The repository includes the app, notebook, dataset, scaler, expected feature names, and trained model.
 
